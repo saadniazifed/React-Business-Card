@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Business-Card/static/css/main.abd64e84.css",
+    "main.js": "/React-Business-Card/static/js/main.70769f02.js",
+    "static/js/787.f3b95da8.chunk.js": "/React-Business-Card/static/js/787.f3b95da8.chunk.js",
+    "index.html": "/React-Business-Card/index.html",
+    "main.abd64e84.css.map": "/React-Business-Card/static/css/main.abd64e84.css.map",
+    "main.70769f02.js.map": "/React-Business-Card/static/js/main.70769f02.js.map",
+    "787.f3b95da8.chunk.js.map": "/React-Business-Card/static/js/787.f3b95da8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.70769f02.js"
+  ]
+}
