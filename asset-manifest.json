@@ -1,15 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Business-Card/static/css/main.abd64e84.css",
-    "main.js": "/React-Business-Card/static/js/main.70769f02.js",
+    "main.css": "/React-Business-Card/static/css/main.049da550.css",
+    "main.js": "/React-Business-Card/static/js/main.3d4de345.js",
     "static/js/787.f3b95da8.chunk.js": "/React-Business-Card/static/js/787.f3b95da8.chunk.js",
+    "static/media/Inter-Bold.ttf": "/React-Business-Card/static/media/Inter-Bold.1eca2d329458b92342aa.ttf",
+    "static/media/Inter-Regular.ttf": "/React-Business-Card/static/media/Inter-Regular.a3e5baa244e35d0f891d.ttf",
+    "static/media/Saad.jpeg": "/React-Business-Card/static/media/Saad.4cc6f51ae60eb8763d2c.jpeg",
     "index.html": "/React-Business-Card/index.html",
-    "main.abd64e84.css.map": "/React-Business-Card/static/css/main.abd64e84.css.map",
-    "main.70769f02.js.map": "/React-Business-Card/static/js/main.70769f02.js.map",
+    "main.049da550.css.map": "/React-Business-Card/static/css/main.049da550.css.map",
+    "main.3d4de345.js.map": "/React-Business-Card/static/js/main.3d4de345.js.map",
     "787.f3b95da8.chunk.js.map": "/React-Business-Card/static/js/787.f3b95da8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.abd64e84.css",
-    "static/js/main.70769f02.js"
+    "static/css/main.049da550.css",
+    "static/js/main.3d4de345.js"
   ]
 }
