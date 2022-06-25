@@ -10,7 +10,7 @@ export default function Info() {
 
       <div>
         <p>Saad Niazi</p>
-        <p>Front End Developer (MERN Stack)</p>
+        <p>Front End Developer (MERN)</p>
         <p>LinkedIn Username: saadniazifed</p>
         <button>Email</button>
       </div>
