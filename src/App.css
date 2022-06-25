@@ -113,3 +113,13 @@ body {
   font-family: "Inter";
   color: white;
 }
+
+.aboutContainer > h4 {
+  font-family: "Inter";
+  font-size: 16px;
+}
+
+.aboutContainer > p {
+  font-family: "Inter";
+  font-size: 12px;
+}
