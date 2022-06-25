@@ -1,9 +1,10 @@
 import "./App.css";
+import React from "react";
+import { ReactDOM } from "react";
+import Info from "./Info";
 
 function App() {
-  return {
-    /*Everything is removed for now. */
-  };
+  return <Info />;
 }
 
 export default App;
